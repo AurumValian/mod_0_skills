@@ -1,0 +1,15 @@
+MenuItem class
+Attributes:
+
+name (string)
+gluten-free (boolean)
+vegan (boolean)
+price (float)
+servings (integer)
+
+Methods:
+
+add_croutons() (if gluten-free was true, changes gluten-free to false)
+double_serving() (increases serving size, increases price)
+change_price() (increases or decreases price)
+change_name("string") (changes name of the item)
