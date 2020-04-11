@@ -1,0 +1,15 @@
+class Guest
+Attributes
+
+name : string
+number_of_people : integer
+table_number : integer
+order : object
+check_total : float
+
+Methods
+
+add_people(integer) (changes number_of_people)
+move_table(integer) (changes table_number)
+add_order() (changes order and check_total)
+discount_ten() (lessens check_total by 10%)
