@@ -1,0 +1,13 @@
+salad
+Attributes
+name : "Salad"
+vegan : true
+gluten-free : true
+price : 6.99
+servings : 1
+
+Methods
+add_croutons() turns gluten-free to false
+double_serving() increases serving to 2 and price to 13.98
+change_price(7.99) changes price to 7.99
+change_name("Super Salad") changes the name to Super Salad
