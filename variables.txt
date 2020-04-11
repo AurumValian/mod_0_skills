@@ -1,0 +1,9 @@
+var food = "fettucineAlfredo";
+var is_delicious = true;
+food = "hamburger";
+var num2 = 17;
+var num7 = 71;
+var quotient = num7 / num2;
+var songs = ["Don't Stop Me Now", "Crocodile Rock", "Here Comes the Sun"];
+songs.shift();
+console.log(food.length);
