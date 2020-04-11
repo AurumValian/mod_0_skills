@@ -1,0 +1,18 @@
+Joseph
+Attributes
+name : "Joseph"
+number_of_people : 3
+table_number : 11
+order : {
+"Onion Rings" : 5.99
+"Hamburger" : 10.99
+"Cheeseburger" : 12.99
+"Super Salad" : 7.99
+}
+check_total : 40.61
+
+Methods
+add_people(2) (changes number_of_people to 5)
+move_table(12) (changes table_number to 12)
+add_order() (adds an item and a price to order)
+discount_ten() (lessens the price by 10%, making it 36.55)
